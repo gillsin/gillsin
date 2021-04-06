@@ -7,4 +7,4 @@
 <!---
 gillsin/gillsin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
----> hello, gill.sin here a coder and promgammer looking for cool features and tools 
+---> hello, gill.sin here a coder and promgammer looking for cool features and tools, reach me on github reddit and many more like twitter
